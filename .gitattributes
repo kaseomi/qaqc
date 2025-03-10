@@ -1,0 +1,2 @@
+files/MiningProcess.csv filter=lfs diff=lfs merge=lfs -text
+pages/xgb_model.pkl filter=lfs diff=lfs merge=lfs -text
